@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5f023135c22d6d2994e9f65a"
+  },
+  "nombre": "David",
+  "apellidos": "Vazquez Salas",
+  "descripcion": "Persona de nacionalidad mexicana"
+},{
+  "_id": {
+    "$oid": "5f02326fc22d6d2994e9f65b"
+  },
+  "nombre": "Daniel",
+  "apellidos": "Rojas Blancas",
+  "descripcion": "Persona de nacionalidad mexicana"
+},{
+  "_id": {
+    "$oid": "5f0232c1c22d6d2994e9f65c"
+  },
+  "nombre": "Cesar",
+  "apellidos": "Ramirez Orozco",
+  "descripcion": "Persona de nacionalidad Indu"
+}]
